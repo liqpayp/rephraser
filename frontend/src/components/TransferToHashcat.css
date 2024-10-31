@@ -1,0 +1,20 @@
+/* frontend/src/components/TransferToHashcat.css */
+
+.transfer-hashcat-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.message {
+    margin-top: 15px;
+    color: green;
+}
+
+.cracked-passwords-output {
+    margin-top: 20px;
+}
